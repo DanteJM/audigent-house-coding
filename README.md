@@ -1,4 +1,4 @@
-# audigent-house-coding-challange 
+# Audigent House Coding Challange 
 
 The requirement for the coding challange is below
 
